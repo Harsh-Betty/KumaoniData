@@ -1,0 +1,22 @@
+[
+    {
+        "english" : "What is your name?",
+        "kumaoni" : "Tumar nau ki chuu",
+        "kumdevscript" : ""
+    },
+    {
+        "english" : "my name is Betty",
+        "kumaoni" : "Myar naam Betty chuu",
+        "kumdevscript" : ""
+    },
+    {
+        "english" : "I don't know",
+        "kumaoni" : "Meke ni patt",
+        "kumdevscript" : "मेके नी पत्त"
+    },
+    {
+        "english" : "Can you speak Kumaoni?",
+        "kumaoni" : "Tum Kumaoni bule sakcha?",
+        "kumdevscript" : "तुम कुमाऊनी बुले सकछा?"
+    }
+]
